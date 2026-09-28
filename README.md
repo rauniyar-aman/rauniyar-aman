@@ -25,11 +25,11 @@
 <!-- ===== About Me =====  EDIT the bullets below -->
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **your current project**
-- 🌱 I’m currently learning **things you’re learning**
-- 💬 Ask me about **your topics**
-- 📫 How to reach me: **you@example.com**
-- ⚡ Fun fact: **your fun fact**
+- 🔭 I’m currently working on **SaaS Projects**
+- 🌱 I’m currently learning **Agentic AI & ML**
+- 💬 Ask me about **the projects that I have completed or working on**
+- 📫 How to reach me: **amangupta00121212@GMAIL.COM**
+- ⚡ Fun fact: **I am liar**
 
 <div align="center">
 

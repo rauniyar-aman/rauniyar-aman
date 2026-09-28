@@ -33,6 +33,11 @@
   </picture>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+  <img src="profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" />
+</picture>
 
 <picture>
   <img align="center" style="width: 100vw;" src="space-shooter.webp" alt="Github Space Shooter" />
